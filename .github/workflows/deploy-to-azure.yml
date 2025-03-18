@@ -3,7 +3,7 @@ name: Deploy ASP.NET Core App to Azure App Service
 on:
   push:
     branches:
-      - main  # Trigger on push to the main branch
+      - master  # Trigger on push to the main branch
 
 jobs:
   build-and-deploy:
