@@ -1,1 +1,1 @@
-ASP.Net application with Github Actions to deploy in Azure for CI/CD
+Devops pipeline to deploy ASP.Net application and deploy to App Service using Github actions
